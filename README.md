@@ -6,3 +6,6 @@
 
 ### Applications
 - [Blogtrotter](https://blogtrottr.com)
+
+## Gaming
+
