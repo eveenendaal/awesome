@@ -1,2 +1,8 @@
 # My Awesome List
-awesome
+
+## Tech
+
+### Infrastructure
+
+### Applications
+- [Blogtrotter](https://blogtrottr.com)
