@@ -9,3 +9,6 @@
 
 ## Gaming
 - [Nintendo Store](https://www.nintendo.nl)
+
+## Personal Development
+- [Duolingo](https://www.duolingo.com/learn)
