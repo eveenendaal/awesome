@@ -9,7 +9,7 @@
 
 ## Gaming
 - [Nintendo Store](https://www.nintendo.nl) - Where you buy Nintendo Switch Games
-- [ROMs](ROMs Megathread) - https://r-roms.github.io/megathread/retro/
+- [ROMs](https://r-roms.github.io/megathread/retro/) - ROMs Megathread
 
 ## Personal Development
 - [Duolingo](https://www.duolingo.com/learn) - Great site for learning second languages
